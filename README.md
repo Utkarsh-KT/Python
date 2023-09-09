@@ -1,3 +1,18 @@
+# Introduction To Programming
+- Arithmetic & Variables
+- Functions
+- Data Types
+- Conditions & Conditional Statements
+- Intro to Lists
+
+
+
+
 # Python
-- Day 01->
-- 
+- Hello Python
+- Functions
+- Bolleans & Conditionals
+- Lists
+- Loops & Comprehensions
+- Strings & Dictionaries
+- Working with External Libraries
