@@ -8,7 +8,7 @@
 
 
 
-# Python
+# Python Basics to Advanced
 - Hello Python
 - Functions
 - Bolleans & Conditionals
