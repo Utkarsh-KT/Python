@@ -112,3 +112,9 @@ print("yoyo"*False,type("yoyo"*False),len("yoyo"*False))#returns empty string an
 print(True+False) #arithmetic operation on booleans
 print(True+True)
 print(False+False)
+def bool_op(digits,even):#Funciton which returns twice number of char in string if even num of char, else returns thrice
+    x = len(digits)
+    y = ((x*2)*even)+((x*3)*(not even))
+    return y
+print(bool_op('123',False))
+print(bool_op('12',True))
