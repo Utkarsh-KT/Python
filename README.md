@@ -8,7 +8,7 @@
 
 
 
-# Python Basics to Advanced
+# Python For Data Science
 - Hello Python
 - Functions
 - Bolleans & Conditionals
