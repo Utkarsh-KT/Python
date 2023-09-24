@@ -104,8 +104,8 @@ print(f'3+6 = {3+6}')#addition
 print(f'3-6 = {3-6}')#substraction
 print(f'3*6 = {3*6}')#multiplication
 print(f'3/6 = {3/6}')#division
-print(f'3//6 = {3//6}')#floor division
-print(f'3%6 = {3%6}')#modulas
+print(f'3//6 = {3//6}')#floor division returns int rounded qoutient
+print(f'3%6 = {3%6}')#modulas returns remainder
 print(f'3**6 = {3**6}')#exponentiation
 print(f'-9+3*6 = {-9+3*6}')#negation
 
