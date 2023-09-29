@@ -7,6 +7,7 @@ Functions & Getting Help
 5)Functions that don't return & side effects
 6)Default arguments
 7)Functions Applied to Functions
+8)Something Special
 '''
 # 1)Introduction & Getting help()
 '''
@@ -145,3 +146,9 @@ def modu_5(x) :
     return x%5 
 print('Biggest num :',max(6,3,9))
 print('Biggest num of modulo 5 :',max(6,3,9,key=modu_5))#returns 9 as remainder after dividing with 5 is largest
+
+#8)Something Special
+print('round(3.14159)-> Rounds to second decimal =',round(3.14159,2))
+print('round(3.369369,-1)-> Rounds to nearest 10 =',round(3.369369,-1))
+print('round(9.369369,-1)-> Rounds to nearest 10 =',round(9.369369,-1))
+print('round(50.369369,-2)-> Rounds to nearest 100 =',round(50.369369,-2))
