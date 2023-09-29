@@ -7,8 +7,6 @@ Functions & Getting Help
 5)Functions that don't return & side effects
 6)Default arguments
 7)Functions Applied to Functions
-8)
-9)
 '''
 # 1)Introduction & Getting help()
 '''
