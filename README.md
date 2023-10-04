@@ -4,6 +4,7 @@
 - Data Types
 - Conditions & Conditional Statements
 - Intro to Lists
+
 Sources-> https://www.kaggle.com/learn/intro-to-programming
 
 
@@ -16,4 +17,5 @@ Sources-> https://www.kaggle.com/learn/intro-to-programming
 - Loops & Comprehensions
 - Strings & Dictionaries
 - Working with External Libraries
+
 Sources-> https://www.kaggle.com/learn/python
