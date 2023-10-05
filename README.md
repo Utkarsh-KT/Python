@@ -19,3 +19,12 @@ Sources-> https://www.kaggle.com/learn/intro-to-programming
 - Working with External Libraries
 
 Sources-> https://www.kaggle.com/learn/python
+
+
+
+# Python From Basics To Advanced 
+-
+-
+-
+
+https://docs.python.org/3.11/tutorial/
